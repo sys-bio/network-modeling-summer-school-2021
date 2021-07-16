@@ -5,7 +5,7 @@ read -p "*** This script clobbers the scripts/ direction. Hit enter to continue"
 
 START_DIR=`pwd`
 BASE_DIR="${START_DIR}/scripts"  # Target directory
-CMD="${START_DIR}/mk_script.sh"
+CMD="${START_DIR}/bin/mk_script.sh"
 
 rm -rf scripts
 cp -r notebooks scripts
@@ -16,15 +16,15 @@ function create() {
         then
             DIR="${BASE_DIR}"
         else
-            OLD_DIR="${BASE_DIR}/$1"
-            DIR="${BASE_DIR}/test$1"
-            mv "${OLD_DIR}" "${DIR}"
+            OLD_DIR=${BASE_DIR}/$1
+            DIR=${BASE_DIR}/test$1
+            mv ${OLD_DIR} ${DIR}
     fi
     echo "Processing ${DIR}"
-    cd "${DIR}"
+    cd ${DIR}
     for f in `ls *.ipynb`
       do
-        bash "${START_DIR}/mk_script.sh" "$f"
+        bash ${CMD} $f
         rm $f
         echo $f
       done
@@ -35,7 +35,7 @@ function create() {
 }
 
 # Top directory
-create
+#create
 cd ${BASE_DIR}
 LIST=`echo */ | grep -v ".py"`
 for d in ${LIST}
