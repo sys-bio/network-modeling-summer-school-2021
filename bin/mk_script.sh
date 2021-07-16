@@ -1,4 +1,5 @@
 #!/bin/bash
+# Note -- Currently uses COLAB environment to build scripts
 # Creates a script from a ipython notebook
 # input: file.ipynb
 # output: file.py
@@ -22,7 +23,7 @@ grep -v "pip install" ${PYTHON} > ${TMP_PYTHON}
 cp ${TMP_PYTHON} ${PYTHON}
 grep -v "get_ipython" ${PYTHON} > ${TMP_PYTHON}
 cp ${TMP_PYTHON} ${PYTHON}
-sed 's/IS_COLAB = True/IS_COLAB = False/' ${PYTHON} > ${TMP_PYTHON}
+#sed 's/IS_COLAB = True/IS_COLAB = False/' ${PYTHON} > ${TMP_PYTHON}
 cp ${TMP_PYTHON} ${PYTHON}
 echo ""
 echo "**Below are the dependencies for this ${PYTHON}"

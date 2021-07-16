@@ -1,4 +1,4 @@
-IS_COLAB = False
+IS_COLAB = True
 
 if IS_COLAB:
     pass

@@ -11,7 +11,7 @@
 # In[ ]:
 
 
-IS_COLAB = False
+IS_COLAB = True
 
 
 # In[ ]:

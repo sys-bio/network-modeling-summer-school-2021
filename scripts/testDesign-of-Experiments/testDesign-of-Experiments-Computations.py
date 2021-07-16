@@ -24,7 +24,7 @@
 # In[51]:
 
 
-IS_COLAB = False
+IS_COLAB = True
 
 
 # In[52]:
