@@ -2,7 +2,7 @@ import pandas as pd
 import urllib.request
 
 # Linear pathway data
-BASE_URL = "https://github.com/vporubsky/network-modeling-summer-school/raw/main/"
+BASE_URL = "https://github.com/sys-bio/network-modeling-summer-school-2021/raw/main/"
 BASE_DATA_URL = "%sdata/" % BASE_URL
 BASE_MODULE_URL = "%ssrc/" % BASE_URL
 BASE_MODEL_URL = "%smodels/" % BASE_URL
