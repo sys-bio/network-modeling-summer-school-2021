@@ -1,4 +1,4 @@
-# network-modeling-summer-school
+# network-modeling-summer-school-2021
 
 <!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
@@ -12,11 +12,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/vporubsky/network-modeling-summer-school">
+  <a href="https://github.com/sys-bio/network-modeling-summer-school-2021">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">network-modeling-summer-school</h3>
+  <h3 align="center">network-modeling-summer-school-2021</h3>
 
   <p align="center">
     These materials were created for a week-long course on network modeling, 
@@ -98,7 +98,7 @@ Install the packages required to run the Jupyter notebooks contained in the repo
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/vporubsky/network-modeling-summer-school.git
+   git clone https://github.com/sys-bio/network-modeling-summer-school-2021.git
    ```
 
 
@@ -119,9 +119,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Veronica Porubksy - verosky@uw.edu
+Veronica Porubsky - verosky@uw.edu
 
-Project Link: [https://github.com/vporubsky/network-modeling-summer-school](https://github.com/vporubsky/network-modeling-summer-school)
+Project Link: [https://github.com/sys-bio/network-modeling-summer-school-2021](https://github.com/sys-bio/network-modeling-summer-school-2021)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
@@ -132,12 +132,12 @@ Project Link: [https://github.com/vporubsky/network-modeling-summer-school](http
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/vporubsky/network-modeling-summer-school/graphs/contributors
+[contributors-url]: https://github.com/sys-bio/network-modeling-summer-school-2021/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/vporubsky/network-modeling-summer-school/network/members
+[forks-url]: https://github.com/sys-bio/network-modeling-summer-school-2021/network/members
 [stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/vporubsky/network-modeling-summer-school/stargazers
+[stars-url]: https://github.com/sys-bio/network-modeling-summer-school-2021/stargazers
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/vporubsky/network-modeling-summer-school/issues
+[issues-url]: https://github.com/sys-bio/network-modeling-summer-school-2021/issues
 [license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/vporubsky/network-modeling-summer-school/blob/master/LICENSE.txt
+[license-url]: https://github.com/sys-bio/network-modeling-summer-school-2021/blob/master/LICENSE.txt
