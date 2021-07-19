@@ -13,7 +13,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/sys-bio/network-modeling-summer-school-2021">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="network1.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">network-modeling-summer-school-2021</h3>
@@ -72,6 +72,7 @@ biochemical differential equation-based model using the model
 development package, Tellurium, and programming in Python. 
 
 **A repository of Google Colaboratory notebooks for the course is also available:**
+https://bit.ly/network_modeling_summer_school_2021_course_materials
 
 ### Built With
 
