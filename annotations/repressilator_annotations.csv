@@ -1,0 +1,19 @@
+pattern,sbml_type,annotation_type,qualifier,resource,name
+d_m1,parameter,rdf,BQB_IS,sbo/SBO:0000356,Decay constant
+d_m2,parameter,rdf,BQB_IS,sbo/SBO:0000356,Decay constant
+d_m3,parameter,rdf,BQB_IS,sbo/SBO:0000356,Decay constant
+d_p1,parameter,rdf,BQB_IS,sbo/SBO:0000356,Decay constant
+d_p2,parameter,rdf,BQB_IS,sbo/SBO:0000356,Decay constant
+d_p3,parameter,rdf,BQB_IS,sbo/SBO:0000356,Decay constant
+n1,parameter,rdf,BQB_IS,sbo/SBO:0000190,Hill coefficient
+n2,parameter,rdf,BQB_IS,sbo/SBO:0000190,Hill coefficient
+n3,parameter,rdf,BQB_IS,sbo/SBO:0000190,Hill coefficient
+a_m1,parameter,rdf,BQB_IS,sbo/SBO:0000186,Maximal velocity
+a_m2,parameter,rdf,BQB_IS,sbo/SBO:0000186,Maximal velocity
+a_m3,parameter,rdf,BQB_IS,sbo/SBO:0000186,Maximal velocity
+M1,parameter,rdf,BQB_IS,sbo/SBO:0000250,Ribonucleic acid
+M2,parameter,rdf,BQB_IS,sbo/SBO:0000250,Ribonucleic acid
+M3,parameter,rdf,BQB_IS,sbo/SBO:0000250,Ribonucleic acid
+P1,parameter,rdf,BQB_IS,sbo/SBO:0000252,Polypeptide chain
+P2,parameter,rdf,BQB_IS,sbo/SBO:0000252,Polypeptide chain
+P3,parameter,rdf,BQB_IS,sbo/SBO:0000252,Polypeptide chain
